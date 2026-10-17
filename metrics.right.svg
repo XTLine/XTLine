@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.95395113075529" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="203.95395113075529" y="0" width="119.80519442027402" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="323.7591455510293" y="0" width="91.22374344317302" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="414.9828889942023" y="0" width="23.90129372244947" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="438.88418271665176" y="0" width="13.111716507339372" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="451.9958992239911" y="0" width="3.999467123750525" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.99536634774165" y="0" width="2.541501481789079" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.5368678295307" y="0" width="1.4631321704692337" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.70508678386892" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="202.70508678386892" y="0" width="120.9216542849918" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="323.6267410688608" y="0" width="91.49572503146904" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="415.1224661003298" y="0" width="23.75493973710653" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="438.87740583743636" y="0" width="13.167504626752075" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="452.04491046418843" y="0" width="3.97497732166675" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.0198877858552" y="0" width="2.525939191524203" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.5458269773794" y="0" width="1.4541730226206588" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>2.84 MB</div>
-                                <div>44.34%</div>
+                                <div>44.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,8 +52,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.27 MB</div>
-                                <div>19.83%</div>
+                                <div>1.28 MB</div>
+                                <div>19.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,8 +64,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>182 kB</div>
-                                <div>2.85%</div>
+                                <div>184 kB</div>
+                                <div>2.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,8 +90,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>1.67 MB</div>
-                                <div>26.04%</div>
+                                <div>1.70 MB</div>
+                                <div>26.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>333 kB</div>
-                                <div>5.2%</div>
+                                <div>5.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,7 +115,7 @@
                             </div>
                             <small>
                                 <div>55.7 kB</div>
-                                <div>0.87%</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -164,7 +164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XTLine/AumoRelay</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Try to solve the problems of multiple agents as simply and efficiently as possible....</div>
@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mvschwarz/openrig</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.</div>
@@ -285,13 +285,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        7.54k
+                                        7.55k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        586
+                                        588
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
